@@ -23,6 +23,12 @@ min_request_interval = 1.5
 min_download_interval = 0.5
 
 # 収集するアカウント(@ は不要)
+# 候補の一覧と出典は docs/idols.md を参照してください
 accounts = [
-  "example_account",
+  "jun_amaki",        # 天木じゅん
+  "shinozakiai_226",  # 篠崎愛
+  "asupons02",        # 岸明日香
+  "suzukifumina",     # 鈴木ふみ奈
+  "rinasketch",       # 橋本梨菜
+  "hikaru06kon",      # 青山ひかる
 ]

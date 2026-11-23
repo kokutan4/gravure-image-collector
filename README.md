@@ -25,7 +25,7 @@ source .venv/bin/activate
 pip install -e .
 
 cp .env.example .env                 # X_BEARER_TOKEN を書き込む
-cp config.example.toml config.toml   # accounts に収集したいアカウントを書く
+cp config.example.toml config.toml   # accounts に収集したいアカウントを書く(候補は docs/idols.md)
 ```
 
 ## 使い方
