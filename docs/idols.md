@@ -21,6 +21,7 @@
 | 橋本梨菜 | 1993-09-13 | リップ | [@rinasketch](https://x.com/rinasketch) | ◎ | |
 | 青山ひかる | 1993-06-13 | ゼロイチファミリア | [@hikaru06kon](https://x.com/hikaru06kon) | ◎ | |
 | メイリ | 12月21日(生年は非公表。以前は1989年と公表) | フリーランス(SPJ Entertainment と業務提携) | [@picooondayo](https://x.com/picooondayo) | ○ | |
+| 篠崎こころ | 1993-07-07 | PPエンタープライズ | [@kokoro777pp](https://x.com/kokoro777pp) | ◎ | DJ・モデル・コスプレイヤーとしても活動 |
 | 森咲智美 | 1992-08-12 | リップ | [@p_tomo0812](https://x.com/p_tomo0812) | ◎ | 2023年11月にグラビア引退(タレント・YouTuber として活動中)。下の設定ではコメントアウト |
 
 ### 載せなかった人
@@ -43,6 +44,7 @@ accounts = [
   "rinasketch",       # 橋本梨菜
   "hikaru06kon",      # 青山ひかる
   "picooondayo",      # メイリ
+  "kokoro777pp",      # 篠崎こころ
   # "p_tomo0812",     # 森咲智美(グラビア引退済み)
 ]
 ```
