@@ -34,6 +34,7 @@
 | 名前 | 生年月日 | 所属 | X アカウント | 確度 | メモ |
 | --- | --- | --- | --- | --- | --- |
 | 篠崎こころ | 1993-07-07 | PPエンタープライズ | [@kokoro777pp](https://x.com/kokoro777pp) | ◎ | DJ・モデル・コスプレイヤーとしても活動 |
+| 鈴木Mob. | 1999-04-10 | MMG JAPAN(煌めき☆アンフォレント) | [@wachacha_mob](https://x.com/wachacha_mob) | ○ | 2025年3月に にっぽんワチャチャ卒業。X は2024年の本人投稿の埋め込みで確認。Instagram は mmgjp_mob に変わっているので、X も変更の可能性あり |
 
 ### コスプレイヤー
 
@@ -68,6 +69,7 @@ accounts = [
 
   # アイドル
   "kokoro777pp",      # 篠崎こころ
+  "wachacha_mob",     # 鈴木Mob.
 
   # コスプレイヤー
   "poyodaifukuya",    # まめだいふく
