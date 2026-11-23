@@ -27,6 +27,7 @@
 | メイリ | 12月21日(生年は非公表。以前は1989年と公表) | フリーランス(SPJ Entertainment と業務提携) | [@picooondayo](https://x.com/picooondayo) | ○ | |
 | 花井美理 | 1984-10-15 | フリーランス | [@mirihanai](https://x.com/mirihanai) | ◎ | ミュージシャンとしても活動 |
 | 風吹ケイ | 1999-04-05 | プライム(エクセルヒューマンエージェンシーと業務提携) | [@kei_fubuki_](https://x.com/kei_fubuki_) | ◎ | ラジオ番組の公式 @Keiradio_ は本人ではない |
+| 岡田紗佳 | 1994-02-19 | アーティストハウス・ピラミッド | [@sayaka_okada219](https://x.com/sayaka_okada219) | ◎ | プロ雀士(日本プロ麻雀連盟・KADOKAWAサクラナイツ)。サブ垢 @okapy_sub もあり |
 | 森咲智美 | 1992-08-12 | リップ | [@p_tomo0812](https://x.com/p_tomo0812) | ◎ | 2023年11月にグラビア引退(タレント・YouTuber として活動中)。下の設定ではコメントアウト |
 
 ### アイドル
@@ -65,6 +66,7 @@ accounts = [
   "picooondayo",      # メイリ
   "mirihanai",        # 花井美理
   "kei_fubuki_",      # 風吹ケイ
+  "sayaka_okada219",  # 岡田紗佳
   # "p_tomo0812",     # 森咲智美(グラビア引退済み)
 
   # アイドル
