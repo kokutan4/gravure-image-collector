@@ -1,0 +1,19 @@
+[project]
+name = "gravure-image-collector"
+version = "0.1.0"
+description = "公式 X API を使って指定アカウントの投稿画像をローカルに保存する個人用ツール"
+requires-python = ">=3.11"
+dependencies = ["requests>=2.31"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+gravure-collect = "gravure_collector.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["gravure_collector"]
